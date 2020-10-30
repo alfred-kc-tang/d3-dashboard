@@ -1,4 +1,4 @@
-# [Heatmap](https://alfred-kctang.github.io/d3-dashboard/)
+# [Dashboard](https://alfred-kctang.github.io/d3-dashboard/)
 
 This project demonstrates how a dashboard with interactive features is created using the visualization library, D3.
 
